@@ -1,0 +1,21 @@
+# Project Roadmap
+
+## Phase 1 — System Definition
+- [ ] Define system requirements
+- [ ] Define prototype requirements
+- [ ] Risk analysis
+- [ ] Validation strategy
+
+## Phase 2 — Axis Prototype
+- [ ] Electronic validation
+- [ ] Mechanical validation
+- [ ] Closed-loop control validation
+
+## Phase 3 — Full Arm Integration
+- [ ] 6-axis integration
+- [ ] Dynamic validation
+- [ ] Performance testing
+
+## Phase 4 — Final Aluminum Version
+- [ ] Structural redesign
+- [ ] Performance optimization

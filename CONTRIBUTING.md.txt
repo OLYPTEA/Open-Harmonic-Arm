@@ -1,0 +1,13 @@
+# Contributing
+
+This project follows a structured engineering methodology.
+
+All design decisions must be documented in:
+docs/system_engineering/
+
+All experiments must include:
+- Objective
+- Setup
+- Results
+- Analysis
+- Conclusion
