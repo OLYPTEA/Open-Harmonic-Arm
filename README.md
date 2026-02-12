@@ -1,24 +1,29 @@
-# Open Harmonic Arm  
+# Dummy Project
 
 A modular open-source robotic arm project based on harmonic drive actuation and distributed CAN architecture.  
-**Un projet de bras robotique modulaire open-source basé sur une actuation par réducteurs harmoniques et une architecture distribuée en bus CAN.**
+*Un projet de réalisation d'un bras robotique modulaire basé sur un mouvement via réducteurs harmoniques et une architecture distribuée en bus CAN.*
+
+<p align="center">
+  <img src="images/RENDUDUMMY.png" width="700">
+</p>
+
 
 ---
 
 ## Vision  
 
 Design, validate, and document a professional-grade robotic arm architecture using rigorous engineering methodology.  
-**Concevoir, valider et documenter une architecture de bras robotique de niveau professionnel en appliquant une méthodologie d’ingénierie rigoureuse.**
+*Concevoir, valider et documenter une architecture de bras robotique de niveau professionnel en appliquant une méthodologie d’ingénierie rigoureuse.*
 
 ---
 
 ## Project Philosophy  
 
 This project follows a structured systems engineering approach:  
-**Ce projet suit une approche structurée d’ingénierie système :**
+*Ce projet suit une approche structurée d’ingénierie système :*
 
 - **Requirements-driven design**  
-  Conception guidée par les exigences  
+  Conception guidée par le cahier des charges 
 
 - **Analytical modeling**  
   Modélisation analytique  
@@ -26,7 +31,7 @@ This project follows a structured systems engineering approach:
 - **Experimental validation**  
   Validation expérimentale  
 
-- **Iterative refinement**  
+- **Iterative refinement**
   Amélioration itérative  
 
 ---
@@ -34,7 +39,7 @@ This project follows a structured systems engineering approach:
 ## Current Focus  
 
 Prototype validation using a 3D-printed mechanical structure.  
-**Validation d’un prototype basé sur une structure mécanique imprimée en 3D.**
+*Validation d’un prototype basé sur une structure mécanique imprimée en 3D.*
 
 ---
 
@@ -60,7 +65,7 @@ Prototype validation using a 3D-printed mechanical structure.
 ## Status  
 
 Active development.  
-**Développement en cours.**
+*Développement en cours.*
 
 
 ## Source
