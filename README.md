@@ -1,34 +1,67 @@
-# Open Harmonic Arm
+# Open Harmonic Arm  
 
-A modular open-source robotic arm project based on harmonic drive actuation and distributed CAN architecture.
+A modular open-source robotic arm project based on harmonic drive actuation and distributed CAN architecture.  
+**Un projet de bras robotique modulaire open-source basé sur une actuation par réducteurs harmoniques et une architecture distribuée en bus CAN.**
 
-## Vision
+---
 
-Design, validate and document a professional-grade robotic arm architecture using engineering methodology.
+## Vision  
 
-## Project Philosophy
+Design, validate, and document a professional-grade robotic arm architecture using rigorous engineering methodology.  
+**Concevoir, valider et documenter une architecture de bras robotique de niveau professionnel en appliquant une méthodologie d’ingénierie rigoureuse.**
 
-This project follows a structured system engineering approach:
-- Requirements-driven design
-- Analytical modeling
-- Experimental validation
-- Iterative refinement
+---
 
-## Current Focus
+## Project Philosophy  
 
-Prototype validation (3D printed mechanical structure).
+This project follows a structured systems engineering approach:  
+**Ce projet suit une approche structurée d’ingénierie système :**
 
-## Repository Structure
+- **Requirements-driven design**  
+  Conception guidée par les exigences  
 
-- docs/ → System engineering and documentation
-- hardware/ → Mechanical and electronic designs
-- firmware/ → Embedded control software
-- experiments/ → Validation tests
-- simulations/ → Modeling and analysis
+- **Analytical modeling**  
+  Modélisation analytique  
 
-## Status
+- **Experimental validation**  
+  Validation expérimentale  
 
-Active development.
+- **Iterative refinement**  
+  Amélioration itérative  
+
+---
+
+## Current Focus  
+
+Prototype validation using a 3D-printed mechanical structure.  
+**Validation d’un prototype basé sur une structure mécanique imprimée en 3D.**
+
+---
+
+## Repository Structure  
+
+- **docs/** → System engineering and documentation  
+  docs/ → Ingénierie système et documentation  
+
+- **hardware/** → Mechanical and electronic designs  
+  hardware/ → Conceptions mécaniques et électroniques  
+
+- **firmware/** → Embedded control software  
+  firmware/ → Logiciel de contrôle embarqué  
+
+- **experiments/** → Validation tests  
+  experiments/ → Essais de validation  
+
+- **simulations/** → Modeling and analysis  
+  simulations/ → Modélisation et analyses  
+
+---
+
+## Status  
+
+Active development.  
+**Développement en cours.**
+
 
 ## Source
 
