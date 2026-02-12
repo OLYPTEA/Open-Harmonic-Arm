@@ -30,4 +30,8 @@ Prototype validation (3D printed mechanical structure).
 
 Active development.
 
+## Source
+
+https://github.com/peng-zhihui/Dummy-Robot
+
 
