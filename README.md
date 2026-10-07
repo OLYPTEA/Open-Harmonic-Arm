@@ -1,5 +1,8 @@
 # Dummy Project
 
+New version : https://github.com/OLYPTEA/FullStack-DummyProject
+
+
 A modular open-source robotic arm project based on harmonic drive actuation and distributed CAN architecture.  
 *Un projet de réalisation d'un bras robotique modulaire basé sur un mouvement via réducteurs harmoniques et une architecture distribuée en bus CAN.*
 
